@@ -1,7 +1,7 @@
 ## 💻 Abhiuday Das | Aspiring Software Engineer</h1>
 👋 Hello! I am a highly motivated aspiring Software Engineer specializing in scalable backend architecture, API development, and data integrity.
 
-My foundation is built upon a B.Tech in Computer Science (KIIT, 2023), currently amplified by advanced strategic and financial acumen from my MBA in International Business (Finance Elective) at IPE (expected April 2025).
+My foundation is built upon a B.Tech in Computer Science and Engineering (KIIT, 2023), currently amplified by advanced strategic and financial acumen from my MBA in International Business (Finance Elective) at IPE Hyderabad (expected April 2025).
 
 I thrive at the intersection of robust code and strategic business objectives. I possess the unique capability to not only develop resilient, performant systems but also to architect solutions that drive operational efficiency and financial optimization in global environments.
 
